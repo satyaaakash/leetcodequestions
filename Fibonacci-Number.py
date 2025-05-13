@@ -38,7 +38,7 @@ class Solution:
         
         # return dp[n]
 
-       # most efficient is solvingit in constant space
+       # most efficient is solvingit in constant space, time = O(n), space = O(1)
 
        if n==0:
         return 0
